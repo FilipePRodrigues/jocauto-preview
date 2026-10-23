@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://filipeprodrigues.github.io/jocauto-preview/sitemap-index.xml

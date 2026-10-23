@@ -1,0 +1,17 @@
+{
+  "name": "Jocauto Mecânica",
+  "short_name": "Jocauto",
+  "description": "Oficina mecânica na Pampulha, Belo Horizonte. Mais de 30 anos no Santa Amélia.",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#0f2444",
+  "background_color": "#faf7f1",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
